@@ -1,0 +1,21 @@
+.venv/
+audio compression/
+classes/
+cyberattack/
+pics/
+text compression/
+
+*.png
+
+just4fun.py
+analisys.py
+comparisonUI_1.1.py
+comparisonUI_1.2.py
+
+csv_combine.py
+Features.py
+graphs.py
+graphs_psnr.py
+jpeg vs png.py
+Metrics.py
+test features.py
